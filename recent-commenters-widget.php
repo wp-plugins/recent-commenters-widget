@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Recent Commenters Widget.
-Plugin URI: http://macaulay.cuny.edu/eportfolios/techlearning (but I don't have any real support for this)
+Plugin URI: http://mountebank.org
 Description: This is a very very simple modification of the default recent comments widget.  All this does is to display recent commentERS instead of recent comments.  In other words, it just displays the names, without the "...on name-of-the-post" that is there by default.  You can choose whether or not you want the name to have a link, and what it will link to, if it's there
 Author: Joseph Ugoretz
 Version: 1.1
